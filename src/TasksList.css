@@ -1,0 +1,110 @@
+.complete{
+    text-decoration: line-through;
+
+}
+.container{
+    width: 90%;
+    margin:auto ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    overflow: auto;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+ul {
+list-style: none;
+}
+.upper-page{
+    width: 100%;
+    height:50%;
+    background-color: #0080ff;
+    border-radius: 5px;
+}
+.bottom-page{
+    width: 100%;
+    height:50%;
+    background-color: white;
+    border-radius: 5px;
+}
+.title{
+    display: block;
+    padding: 1px 20px;
+    color:white;
+    text-align: right;
+}
+.item{
+    font-weight: 800px; 
+    color:#6D6968;
+    font-size: 20px;
+}
+.middle-title{
+    text-align: center;
+    font-weight: 200px; 
+    color:#6D6968;
+    padding: 70px 50px;
+}
+
+.form-group{
+   
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid none;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.form-control{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+.pos{
+    position: relative;
+}
+.btn{
+    padding:10px 25px;
+    margin: 5px;
+ 
+}
+.btn-default{
+    
+    border:1px solid black;
+    border-radius: 1px;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: white;
+    color: black;
+    
+} 
+    
+.btn-add{
+    position: absolute;
+    border:1px solid white;
+    border-radius: 5px;
+    background-color: #0080ff;
+    color: white;
+    right:0;
+}
+.mr-20{
+margin-right:20px;
+}
+.mr-5{
+    margin-right:5px;
+}
+.footer{
+    background-color:white;
+    text-align: center ;
+}
+.footer-title{
+    
+    font-weight: 200px; 
+    color:#6D6968;
+    font-size: 15px;
+    
+}
